@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectC0M-8999.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ProjectC0M.cpp.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ProjectC0MGameModeBase.cpp.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ArduinoSourceCode.cpp.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ArduinoSourceCode.gen.cpp.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ProjectC0M.init.gen.cpp.obj"
+"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\ProjectC0MGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ProjectC0M\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Riki\Documents\Unreal Projects\ProjectC0M\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-ProjectC0M-8999.lib"

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ProjectC0M.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{DF382775-7AAA-4882-ADF4-480920A5EC1D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjectC0M.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ProjectC0MEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{8A7EBF19-1F98-47A0-AF77-0B3B6FB41FB7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ProjectC0M">
+			<UniqueIdentifier>{92FEA3F2-A69C-455D-BE07-8707E403103D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProjectC0M\ProjectC0M.Build.cs">
+			<Filter>Source\ProjectC0M</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ProjectC0M\ProjectC0M.cpp">
+			<Filter>Source\ProjectC0M</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjectC0M\ProjectC0M.h">
+			<Filter>Source\ProjectC0M</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProjectC0M\ProjectC0MGameModeBase.cpp">
+			<Filter>Source\ProjectC0M</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProjectC0M\ProjectC0MGameModeBase.h">
+			<Filter>Source\ProjectC0M</Filter>
+		</ClInclude >
+		<Filter Include="Source\ProjectC0M\Private">
+			<UniqueIdentifier>{F432E6D4-D7BC-4CA7-9977-93E973611873}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ProjectC0M\Private\ArduinoSourceCode.cpp">
+			<Filter>Source\ProjectC0M\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\ProjectC0M\Public">
+			<UniqueIdentifier>{FBE82512-D7C6-46A2-90FC-FD120DA24B89}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\ProjectC0M\Public\ArduinoSourceCode.h">
+			<Filter>Source\ProjectC0M\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
