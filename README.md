@@ -16,7 +16,8 @@ Arduino robot simulator in UE4.
 - Supporto modalità di debug con visualizzazione coni visivi dei sensori e dati in tempo reale dei sensori.
 - Possibilità di utilizzare modelli personalizzati per i coni visivi dei sensori (formato .fbx o .obj).
 - Simulazione fisica dei movimenti mediante PhysX 3.3 physics engine (https://developer.nvidia.com/physx-sdk).
--
+- Possibilità di modificare il robot con preset di sensori (ActorComponent ue4).
+- 
 
 ## Problemi noti
 - Calcolo distanza dei sensori utilizza il centro del oggetto rendendo le misure leggermente piu grandi di qunato sarebbero in realtà.
