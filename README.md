@@ -34,6 +34,7 @@ Arduino robot simulator in UE4.
 - Sensore gas.
 - Generatore di campi randomici con seed.
 - Conteggio automantico dei puinti.
+- Ciclo automatico di simulazioni con salvataggio dati.
 
 # Documentazione
 Guada all'uso delle funzioni attualmente disponibili.
