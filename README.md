@@ -41,9 +41,9 @@ Guada all'uso delle funzioni attualmente disponibili.
 
 ## Interfaccia e controlli
 
-![Contribution guidelines for this project](UI/Design/Web 1920 – 1.png)
+![testo](UI/Design/Web 1920 – 1.png)
 
-![screenshot](ArduinoRobotSimulator/UI/Design/Web 1920 – 1.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%201.png)
 
 ## Scrittura del codice Arduino
 
