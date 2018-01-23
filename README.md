@@ -43,6 +43,8 @@ Guada all'uso delle funzioni attualmente disponibili.
 
 ![Contribution guidelines for this project](UI/Design/Web 1920 – 1.png)
 
+![screenshot](UI/Design/Web 1920 – 1.png)
+
 ## Scrittura del codice Arduino
 
 ## Personalizzazione del robot
