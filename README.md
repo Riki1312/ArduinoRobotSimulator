@@ -41,9 +41,12 @@ Guada all'uso delle funzioni attualmente disponibili.
 
 ## Interfaccia e controlli
 
-![testo](UI/Design/Web 1920 – 1.png)
-
 ![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%201.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%202.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%203.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%204.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%205.png)
+![testo](https://github.com/Riki1312/ArduinoRobotSimulator/blob/master/UI/Design/Web%201920%20%E2%80%93%206.png)
 
 ## Scrittura del codice Arduino
 
