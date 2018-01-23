@@ -41,7 +41,7 @@ Guada all'uso delle funzioni attualmente disponibili.
 
 ## Interfaccia e controlli
 
-[Contribution guidelines for this project](UI/Design/Web 1920 – 1.png)
+![Contribution guidelines for this project](UI/Design/Web 1920 – 1.png)
 
 ## Scrittura del codice Arduino
 
