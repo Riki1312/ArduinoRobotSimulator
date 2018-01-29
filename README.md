@@ -28,7 +28,7 @@ Arduino robot simulator in UE4.
 
 ## Parti mancanti
 - Supporto file di log personalizzato.
-- Servomotore personalizzabile con supporto sensori.
+- Servomotore personalizzabile con supporto sensori.  (*Alta priorità!*)
 - Funzioni alternative per il movimento (SetSpeed).
 - Emettitore di suono.
 - Emettitore di gas.
