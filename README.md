@@ -23,7 +23,7 @@ Arduino robot simulator in UE4.
 ## Problemi noti
 - Calcolo distanza dei sensori utilizza il centro del oggetto rendendo le misure leggermente piu grandi di qunato sarebbero in realtà.
 - Il cambio di velocità del tempo (rallentamento e aumento velocità) influenza tutti gli oggetti compresa la camera controllata dall'utente.
-- Il generatore randomico presenta piccoli problemi.
+- Il generatore randomico presenta piccoli problemi (controllare i seed segnalati).
 - Incoerenza unità di misure, proporzioni da rivedere.
 
 ## Parti mancanti
