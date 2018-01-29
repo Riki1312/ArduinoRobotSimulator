@@ -17,24 +17,26 @@ Arduino robot simulator in UE4.
 - Possibilità di utilizzare modelli personalizzati per i coni visivi dei sensori (formato .fbx o .obj).
 - Simulazione fisica dei movimenti mediante PhysX 3.3 physics engine (https://developer.nvidia.com/physx-sdk).
 - Possibilità di modificare il robot con preset di sensori (ActorComponent ue4).
-- 
+- Interfaccia utente con impostizaioni per simulazione automatica, schermata debug e log.
+- Gneratore randomico di campi con controlli su collisioni e dimensioni corridoi (con seed e supporto rotazione).
 
 ## Problemi noti
 - Calcolo distanza dei sensori utilizza il centro del oggetto rendendo le misure leggermente piu grandi di qunato sarebbero in realtà.
 - Il cambio di velocità del tempo (rallentamento e aumento velocità) influenza tutti gli oggetti compresa la camera controllata dall'utente.
+- Il generatore randomico presenta piccoli problemi.
+- Incoerenza unità di misure, proporzioni da rivedere.
 
 ## Parti mancanti
 - Supporto file di log personalizzato.
-- Interfaccia di debug.
 - Servomotore personalizzabile con supporto sensori.
 - Funzioni alternative per il movimento (SetSpeed).
 - Emettitore di suono.
 - Emettitore di gas.
 - Sensore suoni.
 - Sensore gas.
-- Generatore di campi randomici con seed.
 - Conteggio automantico dei puinti.
-- Ciclo automatico di simulazioni con salvataggio dati.
+- Interfaccia di debug (da completare).
+- Ciclo automatico di simulazioni con salvataggio dati (da completare).
 
 # Documentazione
 Guada all'uso delle funzioni attualmente disponibili.
